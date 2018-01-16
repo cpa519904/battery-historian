@@ -1,3 +1,5 @@
+
+Battery Historian 是一个通过分析安卓 "bugreport" 进程文件来统计电量消费情况。它允许应用程序开发人员在时间线上可视化系统和应用程序级事件，具有平移和缩放功能，在设备上完全充电后可以轻松查看各种汇总统计信息，并能选择应用程序，检查影响应用程序特定电池的指标。 它还允许两个错误报告的A / B比较，突出显示关键电池相关指标的差异。
 # Battery Historian
 
 Battery Historian is a tool to inspect battery related information and events on an Android device running Android 5.0 Lollipop (API level 21) and later, while the device was not plugged in. It allows application developers to visualize system and application level events on a timeline with panning and zooming functionality, easily see various aggregated statistics since the device was last fully charged, and select an application and inspect the metrics that impact battery specific to the chosen application. It also allows an A/B comparison of two bugreports, highlighting differences in key battery related metrics.
